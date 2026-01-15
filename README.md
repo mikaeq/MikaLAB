@@ -1,23 +1,15 @@
-# 🍔 Landing Page
+# Landing Page
 
-Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e JavaScript. Este projeto apresenta um design limpo com animações suaves.
+A landing page of my personal portifolio, and contact build with HTML, CSS e JavaScript. 
 
-## 🌐 Visualize o projeto:
+## 🛠️ Methods
 
-**[Ver Projeto Online](https://larissakich.github.io/landing-page-food-theme/)**
+- **HTML5**: 
+- **CSS3**: 
+- **JavaScript**: 
+- **jQuery**: 
+- **ScrollReveal**: 
+- **Font Awesome**: 
+- **Google Fonts**: 
 
-## 🛠️ Tecnologias Utilizadas
 
-- **HTML5**: Marcação semântica
-- **CSS3**: Estilização
-- **JavaScript**: Funcionalidade interativa
-- **jQuery**: Manipulação DOM e manipulação de eventos
-- **ScrollReveal**: Animações de scroll
-- **Font Awesome**: Ícones
-- **Google Fonts**: Fontes
-
-## 🚀 Como Começar
-
-1. Clone ou baixe os arquivos do projeto
-2. Abra o arquivo `index.html` no seu navegador
-3. Não é necessária configuração adicional - todas as dependências são carregadas via CDN
